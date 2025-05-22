@@ -1,0 +1,7 @@
+{
+  "urls": [
+    ["dnsserver.py", "github:amora-labs/Micropython-DNSServer-Captive-Portal/main.py"]
+  ],
+  "version": "1.0.0",
+  "deps": []
+}
